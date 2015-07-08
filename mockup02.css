@@ -1,0 +1,12 @@
+div {
+  width: 500px;
+  margin: auto;
+  text-align: center;
+}
+img {
+  height: 300px;
+  width: 300px;
+}
+p {
+  color: magenta;
+}
